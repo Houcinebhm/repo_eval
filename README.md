@@ -10,8 +10,10 @@
 ''on accede bien au web
 ![image](https://github.com/Houcinebhm/repo_eval/assets/94059573/d646ed9c-9be8-4583-8ee5-a83e4f444fc8)
 
-''app avec dockerfile
-![image](https://github.com/Houcinebhm/repo_eval/assets/94059573/78e06183-7f54-47db-8b3b-d250fc68268d)
+''app avec dockerfile mais n'arrive pas à ouvrir le fichier mini_groq.py
+
+![image](https://github.com/Houcinebhm/repo_eval/assets/94059573/08f352c2-ad81-4c44-9124-a0a90fdd7048)
+
 =======
 >>>>>>> 889b1a7 (dockerfile)
 
