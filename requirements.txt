@@ -2,3 +2,7 @@ groq
 httpx
 fastapi
 pydantic
+uvicorn
+python-multipart
+websockets
+httpx

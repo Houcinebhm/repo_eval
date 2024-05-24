@@ -1,4 +1,5 @@
 # repo_eval
+<<<<<<< HEAD
 '' Création du token groq
 ![image](https://github.com/Houcinebhm/repo_eval/assets/94059573/90ba4d14-0146-4223-93b8-e009d965b93b)
 
@@ -11,4 +12,6 @@
 
 ''app avec dockerfile
 ![image](https://github.com/Houcinebhm/repo_eval/assets/94059573/78e06183-7f54-47db-8b3b-d250fc68268d)
+=======
+>>>>>>> 889b1a7 (dockerfile)
 
